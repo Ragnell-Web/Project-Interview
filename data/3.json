@@ -1,0 +1,6 @@
+{
+    "image": "../img/projects/3.png",
+    "name": "Game Whack A Mole",
+    "description": "Aplikasi yang memuat game sederhana zaman dahulu yang banyak orang tahu, yaitu Whack A Mole. Game sederhana ini dibangun hanya menggunakan html, css, dan javascript. Tujuan pembuatan gamenya sendiri untuk memukul tikus yang muncul dari lubang dan mendapatkan poin.",
+    "link":"../projects/30%20-%20Whack%20A%20Mole/index-START.html"
+}

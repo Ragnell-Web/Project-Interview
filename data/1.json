@@ -1,0 +1,6 @@
+{
+  "image": "../img/projects/1.png",
+  "name": "Aplikasi Animelist",
+  "description": "Aplikasi yang berisi daftar film kartun. terdapat beberapa informasi didalamnya seperti jumlah episode, score kartunnya, dan sebagainya. Dibuat dengan menerapkan prinsip dari fetch untuk mengambil data API, masih sebuah prototype dan akan saya kembangkan lagi sebaik mungkin.",
+  "link": "../projects/ragnel-anime/index.html"
+}

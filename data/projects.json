@@ -1,0 +1,44 @@
+[
+  {
+    "id":"1",
+    "image": "../img/projects/1.png",
+    "name": "Aplikasi Animelist",
+    "description": "Aplikasi yang berisi daftar film kartun. terdapat beberapa informasi didalamnya...",
+    "link": "file:///C:/xampp/htdocs/Rest-API/ragnel-anime/index.html"
+  },
+  {
+    "id":"2",
+    "image": "../img/projects/2.png",
+    "name": "Aplikasi Film List",
+    "description": "Aplikasi yang berisi daftar film favorit kita semua. terdapat beberapa informasi didalamnya...",
+    "link":"file:///D:/Bahan%20Front-End/JS/latihan-JS-Lanjutan/latihan-Error-Handling/index.html"
+  },
+  {
+    "id":"3",
+    "image": "../img/projects/3.png",
+    "name": "Game Whack A Mole",
+    "description": "Game sederhana yang menyuruh kita untuk memukul setiap tikus yang muncul...",
+    "link":"file:///D:/Bahan%20Front-End/JS/JavaScript30/30%20-%20Whack%20A%20Mole/index-START.html"
+  },
+  {
+    "id":"4",
+    "image": "../img/projects/4.png",
+    "name": "Aplikasi Countdown Time",
+    "description": "Aplikasi yang dapat menghitung jalan mundur waktu, sesuai yang kita inginkan...",
+    "link":"file:///D:/Bahan%20Front-End/JS/JavaScript30/29%20-%20Countdown%20Timer/index.html"
+  },
+  {
+    "id":"5",
+    "image": "../img/projects/5.png",
+    "name": "Aplikasi Speech Detection",
+    "description": "Aplikasi yang dapat menuliskan apa yang kita ucapkan...",
+    "link":"file:///D:/Bahan%20Front-End/JS/JavaScript30/20%20-%20Speech%20Detection/index-START.html"
+  },
+  {
+    "id":"6",
+    "image": "../img/projects/6.png",
+    "name": "Aplikasi City List",
+    "description": "Aplikasi yang berisi daftar kota di Amerika...",
+    "link":"file:///D:/Bahan%20Front-End/JS/JavaScript30/19%20-%20Webcam%20Fun/index.html"
+  }
+]
